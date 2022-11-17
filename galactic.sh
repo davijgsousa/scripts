@@ -18,7 +18,7 @@ sudo apt upgrade
 sudo apt install ros-galactic-desktop
 #sudo apt install ros-galactic-ros-base
 
-echo "source /opt/ros/foxy/setup.bash" >> ~/.bashrc
+echo "source /opt/ros/galactic/setup.bash" >> ~/.bashrc
 source /opt/ros/galactic/setup.bash
 
 #source /opt/ros/galactic/setup.bash
